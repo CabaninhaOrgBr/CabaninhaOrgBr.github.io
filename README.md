@@ -5,7 +5,7 @@
 ![picture alt](banner.png "Banner")
 
 Agenda da semana
-* Pleleções
+* Preleções
 * Eventos
 * Cursos
 * Reuniões
