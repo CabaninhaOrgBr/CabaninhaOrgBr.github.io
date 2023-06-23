@@ -2,11 +2,15 @@
 
 ## Inicial / Home
 
+![picture alt](banner.png "Banner")
+
 Agenda da semana
 * Pleleções
 * Eventos
 * Cursos
 * Reuniões
+
+![picture alt](fachada.jpg "Fachada")
 
 Conteúdo do boletim informativo da semana atual.
 
