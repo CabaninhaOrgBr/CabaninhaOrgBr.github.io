@@ -21,20 +21,41 @@ Conteúdo do boletim informativo da semana atual.
 * O que fazemos.
 * Associe-se
 
+## 75 anos de Cabaninha
+
+![picture alt](Cabaninha_Logo_75_anos.png "Logo de 75 anos do Cabaninha")
+
+## Doutrina e conteúdo
+
+### Programa de palestras
+
+Duas tabelas, a primeira com as palestras da semana corrente
+E uma segunda tabela com o histórico das preleções
+
 ## Cursos
 
 Lista com a descrição dos cursos
 Descrição dos cursos
 
-## Programa de palestras
+### Bibliteca
 
-Duas tabelas, a primeira com as palestras da semana corrente
-E uma segunda tabela com o histórico das preleções
+Disponbilizar a lista de livros as disposição para venda e empréstimo.
 
-## Eventos
+## Assistencial
 
+### Cáritas
+
+### Enxoval - Valéria Amantéa
+
+## Social Eventos
+
+### Eventos agendados
 Eventos agendados
+
+### Histórico de eventos
 Histórico de eventos com descrição e se possível fotos, analiser LGPD
+
+### Bazar
 
 ## Mensagens
 
