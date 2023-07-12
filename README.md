@@ -37,7 +37,7 @@ E uma segunda tabela com o histórico das preleções
 Lista com a descrição dos cursos
 Descrição dos cursos
 
-### Bibliteca
+### Biblioteca
 
 Disponbilizar a lista de livros as disposição para venda e empréstimo.
 
