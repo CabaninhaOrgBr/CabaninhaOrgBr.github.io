@@ -32,7 +32,7 @@ A renda do evento será revertida em favor dos trabalhos sociais realizados pela
 A Cabaninha também aceita doações de ingredientes para o fricassé de frango. Para informações mais detalhadas, procure 
 a secretaria da Caba ninha. Venha experimentar esta delícia e contribuir com a nossa Cabaninha! 
 
-## LIVRARIA DA CABANINHA 
+## Livraria da cabaninha
 Você já conhece a Livraria da Cabaninha? 
 A Livraria da Cabaninha tem para venda um grande número de livros espíritas, de diversos autores, destinados a adultos, a 
 adolescentes e a crianças (incluindo as obras básicas do Espiritismo), sempre com óti mos preços. Além dos livros que 
