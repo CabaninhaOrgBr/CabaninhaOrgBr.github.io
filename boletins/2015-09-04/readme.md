@@ -1,39 +1,15 @@
-CA
-NTINHO DA REFLEXÃO
- 
- 
+CANTINHO DA REFLEXÃO
+  
 COMO ESTÁ SUA PACIÊNCIA????
  
-A paciência é 
-considerada uma virtude do ser humano, que con-
-siste na disposição de suportar a adversidade de forma voluntária, 
-enquanto se está a espera de algo.
  
-O desenvolvimento da paciência é uma virtude emanada de Deus, 
-que contribui para o fortalecimento do caráter
-. Para que esse 
-objetivo se cumpra, é importante que cada pessoa tenha em 
-conta dois aspectos: a FIRMEZA para suportar os problemas, e a 
-LENTIDÃO para vingar
--se das ofensas recebidas.  
-Diz-
-se que dentre as virtudes, a mais difícil de desenvolver é a 
-paciência, mas uma vez desenvolvida essa traz inúmeros benefí-
-cios. Uma pessoa paciente sabe que para alcançar um objetivo é 
-necessário passar por pequenos obstáculos até alcançar o objet
-i-
-vo final. 
-A paciência é um talento para resistir e vencer. 
+O desenvolvimento da paciência é uma virtude emanada de Deus, que contribui para o fortalecimento do caráter. Para que esse objetivo se cumpra, é importante que cada pessoa tenha em 
+conta dois aspectos: a FIRMEZA para suportar os problemas, e a LENTIDÃO para vingar-se das ofensas recebidas. Diz-se que dentre as virtudes, a mais difícil de desenvolver é a 
+paciência, mas uma vez desenvolvida essa traz inúmeros benefí-cios. Uma pessoa paciente sabe que para alcançar um objetivo é 
+necessário passar por pequenos obstáculos até alcançar o objetivo final. A paciência é um talento para resistir e vencer. 
  
-Aquele que sabe 
-fazer uso da paciência, sabe também fazer uso 
-da razão. Estão mais próximos de alcançar a vitória os que melhor 
-utilizam a paciência do que os impetuosos. A paciência deve ser 
-cultivada com arte e inteligência. Graças a ela, adquirimos capac
-i-
-dade de compr
-eensão, de tolerância e sabedoria para viver bom 
-conosco e com os outros! 
+Aquele que sabe fazer uso da paciência, sabe também fazer uso da razão. Estão mais próximos de alcançar a vitória os que melhor utilizam a paciência do que os impetuosos. A paciência deve ser 
+cultivada com arte e inteligência. Graças a ela, adquirimos capacidade de compreensão, de tolerância e sabedoria para viver bom conosco e com os outros! 
  
 É possível exercitar a paciência em diversas áreas, como por 
 e
