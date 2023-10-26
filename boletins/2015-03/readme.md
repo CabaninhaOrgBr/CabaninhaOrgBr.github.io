@@ -1,6 +1,8 @@
-CANTINHO DA REFLEXÃO
+[Voltar para o índice](..)
+
+# Cantinho da reflexão
   
-COMO ESTÁ SUA PACIÊNCIA????
+## Como está sua paciência????
  
 A paciência é considerada uma virtude do ser humano, que consiste na disposição de suportar a adversidade de forma voluntária, enquanto se está a espera de algo.
  
