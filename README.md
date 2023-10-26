@@ -64,6 +64,7 @@ As mensagens atuais e mais as que fossem aprovadas.
 ## Boletim informativo
 
 Historico e conteúdo como em um blog.
+[Acesso o histórico de boletins](boletins)
 
 ## Contato
 
