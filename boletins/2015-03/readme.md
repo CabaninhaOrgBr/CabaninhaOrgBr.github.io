@@ -2,6 +2,7 @@ CANTINHO DA REFLEXÃO
   
 COMO ESTÁ SUA PACIÊNCIA????
  
+A paciência é considerada uma virtude do ser humano, que consiste na disposição de suportar a adversidade de forma voluntária, enquanto se está a espera de algo.
  
 O desenvolvimento da paciência é uma virtude emanada de Deus, que contribui para o fortalecimento do caráter. Para que esse objetivo se cumpra, é importante que cada pessoa tenha em 
 conta dois aspectos: a FIRMEZA para suportar os problemas, e a LENTIDÃO para vingar-se das ofensas recebidas. Diz-se que dentre as virtudes, a mais difícil de desenvolver é a 
