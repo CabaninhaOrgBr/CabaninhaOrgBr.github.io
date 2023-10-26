@@ -1,100 +1,47 @@
-BOLETIM INFORMATIVO 
+#Boletim informativo Nº 10
 Cabaninha de Antonio de Aquino 
 ABRIL/2015 
-BOLETIM 10 
 Rua Benjamin Constant, 144, Centro — Itu/SP 
 Telefone: (11) 97276-8714 
 e-mail: cabaninha.boletim@gmail.com 
-DIAS E HORÁRIOS DE FUNCIONAMENTO DA CABANINHA 
-Domingo 
-Segunda-feira 
-Terça-feira 
-Quarta-feira 
-Quinta-feira 
-Sexta-feira 
-Sábado 
-08h 30mi n — Ate n dimento Fraterno 
-09h 00min Pa lestra e Passe 
-13h00min às 17h00min —Bazar 
-20hOOmin —Oficina da Reforma íntima 
-13hOOmin às 17hOOmin —Bazar 
-14h00min — Plantão Grupo Cáritas 
-e Atendimento Fraterno 
-14h30min — Palestra e Passe 
-13hOOmin às 17hOOmin —Bazar 
-13hOOmin às 17hOOmin —Bazar 
-19hOOmin —Atendimento Fraterno 
-20hOOmin — Palestra e Passe 
-Eva ngelização Infa ntil 
-Mocidade Es írita 
-13hOO às 17hOOmin — Bazar 
-20h00mi n — Curso — ESDE — Estudo Sistematzado 
-da Doutrina Es írita 
-09hOOmi n — Atendimento às fa mílias - Cáritas 
-entre ade cestasbásicas —uma vez ormês 
-TRABALHOS SOCIAIS REALIZADOS 
+
+##TRABALHOS SOCIAIS REALIZADOS 
 A Cabaninha entrega mensalmente cestas básicas à famílias 
 carentes (devidamente cadastradas, após tri agem), além de 
 enxovais destinados a recém-nascidos carentes (indicados por 
 Assistente Social de Posto de Saúde de Itu). 
-DOAÇÕES 
+
+## Doações
 A Cabaninha aceita doações diversas, tais como alimentos não 
 perecíveis, artigos de higiene para compor as cestas básicas, 
 artigos infantis para os enxovais, itens variados para o bazar 
 beneficente, além de livros espíritas para a biblioteca. 
-REUNIÃO DE DIRETORIA 
+
+## Reunião de diretoria
 Neste mês de abril a reunião de Diretoria da Cabaninha 
 acontecerá no dia 12, às 10h. Se você é associado da Caba ninha, 
 poderá participar. Agende sua participação na Secretaria da 
 Casa. 
-ANIVERSARIANTES DO MÊS DE ABRIL 
-A Cabaninha deseja um feliz aniversário a todos os 
-aniversariantes do mês de abril! Que a data do aniversário 
-seja o início de um período iluminado e de muita evolução 
-espiritual. Que Deus abençoe a todos! 
-CICLO DE PALESTRAS DE ABRIL 
-02/04 (quinta-feira) — Tadeu 
-05/04 (domingo) — Paulo Mantovani 
-07/04 (terça-feira) — Fernanda 
-09/04 (quinta-feira) — Sílvio Siqueira 
-12/04 (domingo) —Zezinho 
-14/04 (terça-feira) — Adão 
-16/04 (quinta-feira) — Wannyr 
-19/04 (domingo) — João Barbieri 
-21/04 (terça-feira) — Deise 
-23/04 (quinta-feira) — Marcos 
-26/04 (domingo) — Mércia 
-28/04 (terça-feira) — Carmen 
-30/04 (quinta-feira) — Nínia 
-FRICASSÊ DE FRANGO 
-No dia 18 de abril a Cabaninha realizará o evento culinário 
-"Fricassê de Frango". Em referida data, das 11h30min às 
-13hOOmin, estarão disponíveis para retirada na Cabaninha 
-deliciosas porções i ndividuais de fricassê de frango com creme 
-de mil ho, acompanhadas por arroz e batata palha. Os convites 
-relativos às porções já estão à venda na secreta ria da 
-Cabaninha ou através do telefone (11) 97276-8714, pelo valor 
+
+## Fricassê de frange
+No dia 18 de abril a Cabaninha realizará o evento culinário "Fricassê de Frango". Em referida data, das 11h30min às 13hOOmin, estarão disponíveis para retirada na Cabaninha 
+deliciosas porções i ndividuais de fricassê de frango com creme de mil ho, acompanhadas por arroz e batata palha. Os convites 
+relativos às porções já estão à venda na secreta ria da Cabaninha ou através do telefone (11) 97276-8714, pelo valor 
 unitário de R$ 15,00 (quinze reais). 
-A renda do evento será revertida em favor dos trabalhos 
-sociais realizados pela Cabaninha, bem como para o projeto 
+A renda do evento será revertida em favor dos trabalhos sociais realizados pela Cabaninha, bem como para o projeto 
 "Cabaninha 2020" 
-A Cabaninha também aceita doações de ingredientes para o 
-fricassé de frango. Para informações mais detalhadas, procure 
-a secretaria da Caba ninha. Venha experimentar esta delícia e 
-contribuir com a nossa Cabaninha! 
-LIVRARIA DA CABANINHA 
+A Cabaninha também aceita doações de ingredientes para o fricassé de frango. Para informações mais detalhadas, procure 
+a secretaria da Caba ninha. Venha experimentar esta delícia e contribuir com a nossa Cabaninha! 
+
+## LIVRARIA DA CABANINHA 
 Você já conhece a Livraria da Cabaninha? 
-A Livraria da Cabaninha tem para venda um grande número de 
-livros espíritas, de diversos autores, destinados a adultos, a 
-adolescentes e a crianças (incluindo as obras básicas do 
-Espiritismo), sempre com óti mos preços. Além dos livros que 
-estão à venda, ainda é possível a realização de encomendas de 
-obras específicas. 
-E mais, se você for associado da Cabaninha terá o direito ao 
-desconto de 10% (dez por cento) na compra de qualquer livro. 
-A Livraria da Cabaninha está à disposição para atender a 
-todos! 
-PRECE 
+A Livraria da Cabaninha tem para venda um grande número de livros espíritas, de diversos autores, destinados a adultos, a 
+adolescentes e a crianças (incluindo as obras básicas do Espiritismo), sempre com óti mos preços. Além dos livros que 
+estão à venda, ainda é possível a realização de encomendas de obras específicas. 
+E mais, se você for associado da Cabaninha terá o direito ao desconto de 10% (dez por cento) na compra de qualquer livro. 
+A Livraria da Cabaninha está à disposição para atender a todos! 
+
+## Prece
 Senhor! 
 Quando eu estiver errado, corrige-me. 
 Quando eu estiver indeciso, orienta-me. 
@@ -104,13 +51,14 @@ Quando eu quiser Te falar, escuta-me.
 Mas, Senhor, 0 que mais quero mesmo é que, quando eu 
 quiser Te seguir, ACEITA-ME 
 (do livro "Gotas de Esperança", de Lourival Lopes) 
-SUGESTÕES 
+
+## Sugestões
 Ajude-nos a fazer 0 Boletim da Cabaninha. Para isso, envie as 
 suas sugestões para o e-mail cabaninha.boletim@gmail.com. 
 até o dia 25 decada mês. 
 CANTINHO DA REFLEXÃO 
 Sugestões no Caminho 
-"Lamenta r-se por que? Aprender sempre, sim. 
+"Lamentar-se por que? Aprender sempre, sim. 
 Cada criatura colherá da vida não só pelo que faz, mas também 
 conforme esteja fazendo aquilo que faz. 
 Não se engane com falsas apreciações acerca de justiça, 
