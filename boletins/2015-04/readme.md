@@ -1,11 +1,10 @@
-#Boletim informativo Nº 10
-Cabaninha de Antonio de Aquino 
-ABRIL/2015 
+# Boletim informativo Nº 10
+Cabaninha de Antonio de Aquino ABRIL/2015 
 Rua Benjamin Constant, 144, Centro — Itu/SP 
 Telefone: (11) 97276-8714 
 e-mail: cabaninha.boletim@gmail.com 
 
-##TRABALHOS SOCIAIS REALIZADOS 
+## Trabalhos sociais realizados
 A Cabaninha entrega mensalmente cestas básicas à famílias 
 carentes (devidamente cadastradas, após tri agem), além de 
 enxovais destinados a recém-nascidos carentes (indicados por 
