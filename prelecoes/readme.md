@@ -1,24 +1,24 @@
 # Preleções 1º Trimestre de 2023
 
-| Dia | Data | Expositor | Tema |
-| :---: | :---: | :---: | :--- |
-| DOMINGO | 01/jan | José Rodrigues | [![Ano Novo: tempo de Transformação](https://img.youtube.com/vi/-penie4QfoU/default.jpg)](https://youtu.be/-penie4QfoU) |
-| TERÇA | 03/jan | Marcos Hovarth | Elementos gerais do universo = L.E - pt. 12 - cap. 2 [![Elementos gerais do universo = L.E - pt. 12 - cap. 2](https://img.youtube.com/vi/j2mrUoSwCuM/default.jpg)](https://youtu.be/j2mrUoSwCuM) | 
-| QUINTA | 05/jan | João Barbieri | Formas de caridade L.E - pt. 3a - questões 886 a 888 |
-| DOMINGO | 08/jan | Salomão Oliveira | Desi ualdade das ri uesas =E.S.E -ca . XVI - item IO |
-| TERÇA | 10/jan | Suzan Araujo | Lei do Trabalho = L.E - pt. 30 - questões 674 a 685 |
-| QUINTA | 12/jan | Mauro Sérgio | Os superiores e os inferiores E.S.E - cap. XVII Item 9 |
-| DOMINGO | 15/jan | Marcos Duarte | Bem e mal sofrer = E.S.E - cap.V - item 18 |
-| TERÇA | 17/jan | Silvia Barral | Pureza do coração = E.S.E - Cap. VIII - item 10 |
-| QUINTA | 19/jan | Wilson Brandão | Génese - Os milagres e as predições segundo o Espiritismo - Cap. XIII -Os milagres no sentido teológico - item 1 a 3 |
-| DOMINGO | 22/jan | Andreia Gudrin | Medo da morte = L.E - pt. 40 - questões 959 a 962 |
-| TERÇA | 24/jan | Maria Silvia | A paciência =E.S.E - cap. IX - item 7 |
-| QUINTA | 26- an | Vinicius Guitti | Há muitas moradas na casa de meu pai = E.S.E - ca . III |
-| DOMINGO | 29-•an | Ar emiro Pinto | Salva -o da alma = E.S.E -ca . III itens 13 a 18 |
-| TERÇA | 31/jan | Silvia Regina | Desapego aos bens materiais E.S.E - cap. XV - itens 1 a 15 |
-| QUINTA | 02/fev | Vania Mugnato | O homem no mundo = E.S.E - cap. XVII - item IO |
-| DOMINGO | 05/fev | Marcelo Suster | Eurípedes Barsanulfo - História e Aprendizado |
-| TERÇA | 07/fev | Adão Murça | Família corporal e espiritual=E.S.E - cap. XIV item8 |
+| Dia | Data | Expositor | Tema | Video |
+| :---: | :---: | :---: | :--- | --- |
+| DOMINGO | 01/jan | José Rodrigues | Ano Novo: tempo de Transformação | [![Ano Novo: tempo de Transformação](https://img.youtube.com/vi/-penie4QfoU/default.jpg)](https://youtu.be/-penie4QfoU) |
+| TERÇA | 03/jan | Marcos Hovarth | Elementos gerais do universo = L.E - pt. 12 - cap. 2 | [![Elementos gerais do universo = L.E - pt. 12 - cap. 2](https://img.youtube.com/vi/j2mrUoSwCuM/default.jpg)](https://youtu.be/j2mrUoSwCuM) | 
+| QUINTA | 05/jan | João Barbieri | Formas de caridade L.E - pt. 3a - questões 886 a 888 | |
+| DOMINGO | 08/jan | Salomão Oliveira | Desi ualdade das ri uesas =E.S.E -ca . XVI - item IO | |
+| TERÇA | 10/jan | Suzan Araujo | Lei do Trabalho = L.E - pt. 30 - questões 674 a 685 | |
+| QUINTA | 12/jan | Mauro Sérgio | Os superiores e os inferiores E.S.E - cap. XVII Item 9 | |
+| DOMINGO | 15/jan | Marcos Duarte | Bem e mal sofrer = E.S.E - cap.V - item 18 | |
+| TERÇA | 17/jan | Silvia Barral | Pureza do coração = E.S.E - Cap. VIII - item 10 | |
+| QUINTA | 19/jan | Wilson Brandão | Génese - Os milagres e as predições segundo o Espiritismo - Cap. XIII -Os milagres no sentido teológico - item 1 a 3 | |
+| DOMINGO | 22/jan | Andreia Gudrin | Medo da morte = L.E - pt. 40 - questões 959 a 962 | |
+| TERÇA | 24/jan | Maria Silvia | A paciência =E.S.E - cap. IX - item 7 | |
+| QUINTA | 26- an | Vinicius Guitti | Há muitas moradas na casa de meu pai = E.S.E - ca . III | |
+| DOMINGO | 29-•an | Ar emiro Pinto | Salva -o da alma = E.S.E -ca . III itens 13 a 18 | |
+| TERÇA | 31/jan | Silvia Regina | Desapego aos bens materiais E.S.E - cap. XV - itens 1 a 15 | |
+| QUINTA | 02/fev | Vania Mugnato | O homem no mundo = E.S.E - cap. XVII - item IO | |
+| DOMINGO | 05/fev | Marcelo Suster | Eurípedes Barsanulfo - História e Aprendizado | |
+| TERÇA | 07/fev | Adão Murça | Família corporal e espiritual=E.S.E - cap. XIV item8 | |
 | QUINTA | 09/fev | José Eduardo | Aprendendo a perdoar = E.S.E - cap. X - itens 1 a 4 |
 | DOMINGO | 12/fev | João Barbieri | A Génese - Ca . II - Deus > Existência de Deus - 1 a 7 |
 | TER | 14/fev | Maria Donizetti | Vícios morais e físicos = E.S.E -ca . XVII - item 11 |
