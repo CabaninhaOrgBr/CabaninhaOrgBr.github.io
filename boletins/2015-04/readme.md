@@ -6,6 +6,8 @@ Rua Benjamin Constant, 144, Centro — Itu/SP
 Telefone: (11) 97276-8714 
 e-mail: cabaninha.boletim@gmail.com 
 
+[PDF no layout original.](cabaninhaBoletim10.pdf)
+
 ## Trabalhos sociais realizados
 A Cabaninha entrega mensalmente cestas básicas à famílias 
 carentes (devidamente cadastradas, após tri agem), além de 

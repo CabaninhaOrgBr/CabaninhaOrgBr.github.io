@@ -2,6 +2,9 @@ BOLETIM INFORMATIVO
 Cabaninha de Antonio de Aquino 
 FEVEREIRO/2016 
 BOLETIM 20 
+
+[PDF no layout original.](cabaninhaBoletim20.pdf)
+
 Rua Benjamin Constant, 144, Centro— Itu/SP 
 Telefone: (11) 97276-8714 
 e-mail: boletim@cabaninha.org.br 

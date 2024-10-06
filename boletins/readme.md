@@ -109,29 +109,29 @@ Nesta página você tem o acesso a todo acervo dos boletins!
 
 ## 2015
 
-[Boletim Nº 07, janeiro de 2016](2015-01)
+[Boletim Nº 07, janeiro de 2016](2015-01/cabaninhaBoletim07.pdf)
 
-[Boletim Nº 08,  fevereiro de 2016](2015-02)
+[Boletim Nº 08,  fevereiro de 2016](2015-02/cabaninhaBoletim08.pdf)
 
 [Boletim Nº 09, março de 2015](2015-03)
 
 [Boletim Nº 10, abril de 2015](2015-04) 
 
-[Boletim Nº 11, maio de 2015](2015-05) 
+[Boletim Nº 11, maio de 2015](2015-05/cabaninhaBoletim11.pdf) 
 
-[Boletim Nº 12, junho de 2015](2015-06) 
+[Boletim Nº 12, junho de 2015](2015-06/cabaninhaBoletim12.pdf) 
 
-[Boletim Nº 13, julho de 2015](2015-07) 
+[Boletim Nº 13, julho de 2015](2015-07/cabaninhaBoletim13.pdf) 
 
-[Boletim Nº 14, agosto de 2015](2015-04) 
+[Boletim Nº 14, agosto de 2015](2015-08) 
 
-[Boletim Nº 15, setembro de 2015](2015-04) 
+[Boletim Nº 15, setembro de 2015](2015-09/cabaninhaBoletim15.pdf) 
 
 [Boletim Nº 16, outubro de 2015](2015-04) 
 
-[Boletim Nº 17, novembro de 2015](2015-04) 
+[Boletim Nº 17, novembro de 2015](2015-11/cabaninhaBoletim17.pdf) 
 
-[Boletim Nº 18, dezembro de 2015](2015-04) 
+
 
 ## 2014
 

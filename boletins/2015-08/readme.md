@@ -1,4 +1,7 @@
 BOLETIM INFORMATIVO 
+
+[PDF no layout original.](cabaninhaBoletim14.pdf)
+
 Cabaninha de Antonio de Aquino 
 AGOSTO/2015 
 BOLETIM 14 
