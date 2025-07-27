@@ -71,7 +71,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 * **Par. 5º** - participar das Assembleias compondo o quórum e votando nas deliberações.
 
 **Art. 15º** - Os associados contribuintes passam a gozar dos seus direitos após aprovação da sua inclusão no quadro social, pela Diretoria e, após o pagamento da primeira mensalidade.
-* **Par. Único** - a manutenção do direito de associado contribuinte a que se refere o Par. 2º do Art. 14º depende de estar o associado em dia com as suas obrigações estatutárias há pelo menos um ano, contado da data do primeiro anúncio da chapa a que se vincular para candidatar-se à eleição; [cite: 68, 69, 72] a manutenção do direito a que se refere o Par 5º, do Art. 14º depende da quitação das suas obrigações estatutárias para com a Instituição. [cite: 73, 74]
+* **Par. Único** - a manutenção do direito de associado contribuinte a que se refere o Par. 2º do Art. 14º depende de estar o associado em dia com as suas obrigações estatutárias há pelo menos um ano, contado da data do primeiro anúncio da chapa a que se vincular para candidatar-se à eleição; a manutenção do direito a que se refere o Par 5º, do Art. 14º depende da quitação das suas obrigações estatutárias para com a Instituição. 
 
 **Art. 16º** - Poderá ocorrer a exclusão do associado contribuinte ou fundador.
 * **Par. 1º** - por solicitação escrita do associado.
@@ -79,7 +79,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 * **Par. 3º** - por praticar, o associado, ato grave, que fira a moral cristã, a lei e o bom nome da Associação.
 * **Par. 4º** - por morte do associado.
 
-**Art. 17º** - Verificados os motivos de exclusão do associado referentes aos Par. 2º e 3º do Art 16º o Presidente dará ciência ao associado dos motivos que ensejam a sua exclusão, facultando a este, que no prazo máximo de cinco dias úteis apresente à Diretoria as suas alegações, por escrito. [cite: 79, 80] Findo esse prazo, de posse ou não da manifestação do referido sócio, a Diretoria, em sua próxima reunião, deliberará, confirmando ou não a exclusão do associado, registrando sua decisão na ata da reunião, e dando ciência por escrito ao associado excluído. Caberá, ainda, ao associado, se desejar, apelar ao Conselho Fiscal, por escrito, da decisão da Diretoria, tendo para isso, cinco dias úteis. De posse dessa apelação, o Conselho Fiscal se pronunciará, ratificando ou não a decisão da Diretoria. Dessa decisão do Conselho Fiscal, não caberá recurso na esfera administrativa.
+**Art. 17º** - Verificados os motivos de exclusão do associado referentes aos Par. 2º e 3º do Art 16º o Presidente dará ciência ao associado dos motivos que ensejam a sua exclusão, facultando a este, que no prazo máximo de cinco dias úteis apresente à Diretoria as suas alegações, por escrito. Findo esse prazo, de posse ou não da manifestação do referido sócio, a Diretoria, em sua próxima reunião, deliberará, confirmando ou não a exclusão do associado, registrando sua decisão na ata da reunião, e dando ciência por escrito ao associado excluído. Caberá, ainda, ao associado, se desejar, apelar ao Conselho Fiscal, por escrito, da decisão da Diretoria, tendo para isso, cinco dias úteis. De posse dessa apelação, o Conselho Fiscal se pronunciará, ratificando ou não a decisão da Diretoria. Dessa decisão do Conselho Fiscal, não caberá recurso na esfera administrativa.
 * **Par. 1º** - Para o caso do Par 1º do Art 16º a Diretoria, após receber a solicitação escrita de exclusão por parte do associado, fará registrar a exclusão na ata da próxima reunião de Diretoria, dando ciência ao mesmo da sua exclusão, por escrito.
 * **Par. 2º** - Para o caso do Par 4º do Art 16º a Diretoria após tomar conhecimento, por qualquer meio, do falecimento do associado fará registrar a exclusão do mesmo na ata da próxima reunião de Diretoria.
 
@@ -87,9 +87,9 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 
 ### Capítulo IV - Das Assembleias e Reuniões da Diretoria
 
-**Art. 19º** - Assembleias são sessões deliberativas onde se reúnem associados, diretores, Conselheiros e convidados, para que sejam decididos os assuntos relevantes para a Instituição, convocadas segundo as condições impostas pelos Art. 20º a 25º. [cite: 89, 90]
+**Art. 19º** - Assembleias são sessões deliberativas onde se reúnem associados, diretores, Conselheiros e convidados, para que sejam decididos os assuntos relevantes para a Instituição, convocadas segundo as condições impostas pelos Art. 20º a 25º. 
 * **Par. 1º** - As Assembleias podem ser Ordinárias ou Extraordinárias.
-* **Par. 2º** - O processo de votação nas Assembleias poderá ser realizado por aclamação, isto é, pela manifestação ostensiva dos associados, seja de aprovação/ou desaprovação. Nesse caso, o Diretor que estiver conduzindo a Assembleia solicitará que se manifestem erguendo uma das mãos os associados que forem a favor da proposta apresentada. Em seguida, solicitará que se manifestem erguendo uma das mãos os associados que forem contra a proposta apresentada. A manifestação a favor ou contra será considerada vencedora se exceder em número a manifestação contrária, não se computando, para isso, as abstenções. [cite: 94, 95, 97] Ocorrendo empate na votação por aclamação, será procedida apenas uma nova votação. Persistindo o empate, a proposta apresentada será considerada vencedora.
+* **Par. 2º** - O processo de votação nas Assembleias poderá ser realizado por aclamação, isto é, pela manifestação ostensiva dos associados, seja de aprovação/ou desaprovação. Nesse caso, o Diretor que estiver conduzindo a Assembleia solicitará que se manifestem erguendo uma das mãos os associados que forem a favor da proposta apresentada. Em seguida, solicitará que se manifestem erguendo uma das mãos os associados que forem contra a proposta apresentada. A manifestação a favor ou contra será considerada vencedora se exceder em número a manifestação contrária, não se computando, para isso, as abstenções.  Ocorrendo empate na votação por aclamação, será procedida apenas uma nova votação. Persistindo o empate, a proposta apresentada será considerada vencedora.
 * **Par. 3º** - Para a participação remota do associado nas Assembleias, este deverá se inscrever antes do seu início e, conforme o estabelecido em edital, sendo o seu voto confirmado pelo diretor que conduz os trabalhos, e com o testemunho de todos os presentes. O associado que participar remotamente terá seu nome inscrito na relação de presença como participante remoto, e poderá assinar a respectiva relação, posteriormente.
 * **Par. 4º** - Para convocação das Assembleias Ordinárias e Extraordinárias se fará publicar um edital com antecedência mínima de trinta dias da data marcada para a Assembleia.
 
@@ -136,7 +136,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 
 **Art. 29º** - De tudo o que ocorrer nas Assembleias, Reuniões da Diretoria e Reuniões do Conselho lavrar-se-á a ata respectiva, assinada obrigatoriamente pelo diretor ou conselheiro que presidir a reunião e pelo diretor ou conselheiro que redigir a Ata, e à qual será anexada a relação de presença com a assinatura dos Diretores, Conselheiros e associados que compareceram.
 
-**Art. 30º** - Haverá, anualmente, pelo menos uma Assembleia Ordinária, a ser realizada até o final do mês de fevereiro, onde deverá ser incluída a apresentação dos programas anuais das Diretorias; e, tantas reuniões do Conselho, quanto necessárias para a execução das suas obrigações estatutárias. [cite: 142, 143]
+**Art. 30º** - Haverá, anualmente, pelo menos uma Assembleia Ordinária, a ser realizada até o final do mês de fevereiro, onde deverá ser incluída a apresentação dos programas anuais das Diretorias; e, tantas reuniões do Conselho, quanto necessárias para a execução das suas obrigações estatutárias.
 
 **Art. 31º** - Haverá, mensalmente, pelo menos uma Reunião de Diretoria Ordinária, salvo se, excepcionalmente, houver motivo de impedimento, ausência de quórum, ou falta de pauta. A realização ou não de reuniões de Diretoria será comunicada pelo presidente, previamente, aos outros membros da diretoria, conselho e associados.
 
@@ -169,7 +169,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 * **Par. 2º - Um Vice-Presidente**, cujas atribuições são:
     * a. substituir o Presidente nos seus impedimentos, com exceção das assinaturas de documentos que gerarem variação patrimonial.
     * b. coordenar os trabalhos das Diretorias.
-    * c. participar das Reuniões de Diretoria e Assembleias, prestando contas das suas atribuições, quando solicitado. [cite: 173, 174]
+    * c. participar das Reuniões de Diretoria e Assembleias, prestando contas das suas atribuições, quando solicitado. 
 * **Par. 3º - Um Primeiro-Secretário**, cujas atribuições são:
     * a. receber, protocolar, expedir, redigir e distribuir toda a correspondência.
     * b. organizar, redigir e manter em dia as relações dos associados e o Arquivo de Pessoal da Associação.
@@ -200,7 +200,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
     * r. assinar, juntamente com o Presidente, os documentos de obrigações financeiras.
 * **Par. 6º - Um Diretor de Doutrina**, cujas atribuições são:
     * a. planejar, dirigir e controlar as atividades doutrinárias.
-    * b. propor e submeter à aprovação da Diretoria os programas das atividades doutrinárias para o ano em curso, antes do início dessas atividades. [cite: 208, 209]
+    * b. propor e submeter à aprovação da Diretoria os programas das atividades doutrinárias para o ano em curso, antes do início dessas atividades.
     * c. zelar para que as atividades doutrinárias se mantenham fiéis à orientação Kardecista.
     * d. coordenar as atividades dos Departamentos subordinados.
     * e. organizar e manter pelo menos uma reunião semanal de estudos doutrinários.
@@ -228,7 +228,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 * **Par. 7º** - julgar recurso sobre a exclusão de associados.
 
 **Art. 43º** - O Mandato da Diretoria e do Conselho Fiscal será de três anos, podendo ser prorrogado, por decisão de Assembleia, ainda uma única vez, até no máximo por um ano. A prorrogação a que se refere este artigo é a extensão excepcional do mandato, quando por qualquer motivo relevante não se puder realizar a eleição.
-* **Par. 1º** - A cada novo pleito poderão concorrer quaisquer dos sócios, sejam ocupantes de cargos na Diretoria ou Conselho, ou não, respeitado o Par. 2º do Art. 15. [cite: 241, 242]
+* **Par. 1º** - A cada novo pleito poderão concorrer quaisquer dos sócios, sejam ocupantes de cargos na Diretoria ou Conselho, ou não, respeitado o Par. 2º do Art. 15.
 * **Par. 2º** - As eleições da Diretoria e do Conselho Fiscal serão realizadas na segunda quinzena do mês de novembro do último ano do mandato. O início do mandato da nova Diretoria e do novo Conselho Fiscal eleitos será a partir do primeiro dia do mês de janeiro, seguinte.
 
 **Art. 44º** - As eleições da Diretoria e do Conselho serão realizadas no mesmo dia e segundo o seguinte procedimento:
@@ -242,7 +242,7 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
     * d. relação dos associados aptos a votar.
     * e. divulgação por meio de edital, das condições de realização da eleição, como também, do dia, hora de início e término da votação.
     * f. boletim de apuração dos votos.
-    * g. Ata da eleição, no dia da votação; Termo de Homologação, até o quinto dia útil após a decisão do Conselho Fiscal sobre qualquer recurso interposto no processo da Eleição; e, Ata da posse da Diretoria, no dia marcado para esse fim. [cite: 260, 261]
+    * g. Ata da eleição, no dia da votação; Termo de Homologação, até o quinto dia útil após a decisão do Conselho Fiscal sobre qualquer recurso interposto no processo da Eleição; e, Ata da posse da Diretoria, no dia marcado para esse fim.
     * h. outras providências julgadas necessárias ao bom andamento das eleições.
 * **Par. 5º** - cada associado tem direito a um voto.
 * **Par. 6º** - É vedado o voto por procuração sendo permitido o voto de associado ausente em cédula a ele fornecida previamente, com autorização do Primeiro-Secretário, que a autenticará, como as outras.
@@ -273,14 +273,14 @@ Claro, aqui está o texto do estatuto formatado para ser publicado em uma págin
 
 **Art. 51º** - A Associação poderá compor, criar ou administrar outras organizações, desde que com a finalidade de melhor atingir os seus objetivos estatutários.
 
-**Art. 52º** - Em caso de extinção ou dissolução da Associação, pagos os seus compromissos, os bens remanescentes serão destinados à outra instituição espírita Kardecista da cidade de Itu, Estado de São Paulo, disposta a utilizar esse patrimônio para atender aos objetivos da Associação; na falta desta, à Prefeitura do Município da Cidade de Itu, desde que utilize o patrimônio para benefício social. [cite: 291, 292]
+**Art. 52º** - Em caso de extinção ou dissolução da Associação, pagos os seus compromissos, os bens remanescentes serão destinados à outra instituição espírita Kardecista da cidade de Itu, Estado de São Paulo, disposta a utilizar esse patrimônio para atender aos objetivos da Associação; na falta desta, à Prefeitura do Município da Cidade de Itu, desde que utilize o patrimônio para benefício social.
 * **Par. 1º** - Dar-se-á a extinção desta Associação como pessoa jurídica: por decisão judicial irrecorrível ou, pela impossibilidade de manter pelo menos uma das suas atividades doutrinárias, perante quaisquer outras, por um período maior do que 1 (um) ano, ainda que parte do seu patrimônio permaneça inativo, quer por falta de uso ou incapacidade temporária de manutenção.
-* **Par. 2º** - Por atividades doutrinárias deve-se entender aquelas descritas nos Par. 1º, 2º e, 3º do Artigo 2º deste Estatuto e cuja periodicidade pode ser semanal, quinzenal ou mensal. [cite: 299, 300]
+* **Par. 2º** - Por atividades doutrinárias deve-se entender aquelas descritas nos Par. 1º, 2º e, 3º do Artigo 2º deste Estatuto e cuja periodicidade pode ser semanal, quinzenal ou mensal.
 
 ### Capítulo VII - Disposições Gerais
 
-**Art. 53º** - O presente Estatuto pode ser alterado a qualquer tempo, desde que essa alteração seja aprovada em Assembleia Extraordinária convocada para esse fim, respeitando-se os Art. 22, 23, 24 e 25. [cite: 302, 303]
-* **Par. Único** - Não serão passíveis de alteração, exceto por exigência da lei, os Art. 1, 2, 10, 24, 48, 52 e 53, deste Estatuto. [cite: 307, 308]
+**Art. 53º** - O presente Estatuto pode ser alterado a qualquer tempo, desde que essa alteração seja aprovada em Assembleia Extraordinária convocada para esse fim, respeitando-se os Art. 22, 23, 24 e 25.
+* **Par. Único** - Não serão passíveis de alteração, exceto por exigência da lei, os Art. 1, 2, 10, 24, 48, 52 e 53, deste Estatuto.
 
 **Art. 54º** - A Associação Espírita Cabaninha de Antônio de Aquino tem prazo de duração indeterminado.
 

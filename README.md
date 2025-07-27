@@ -70,4 +70,6 @@ Historico e conteúdo como em um blog.
 
 Um formulario enviando mensagens para a cabaninha bem como links para os números difernetes do WhatsApp.
 
+## Estatuto
 
+Acesse o estatuto da associação em: [estatuto](estatuto)
