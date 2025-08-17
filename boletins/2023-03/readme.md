@@ -49,6 +49,8 @@ Existe uma luz no fim do túnel, mas é preciso ir até ela, marchando com fé n
 
 #### <ins>A Voz Espírita.</ins>
 Órgão de divulgação do Espiritismo.
+
 <ins>Responsável:</ins> José C. Rodrigues.
+
 <ins>E-mail:</ins> avoespirita@gmail.com
 
