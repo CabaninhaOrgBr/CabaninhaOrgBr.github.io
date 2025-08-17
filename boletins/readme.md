@@ -2,6 +2,10 @@
 
 Nesta página você tem o acesso a todo acervo dos boletins!
 
+## 2023
+
+[Boletim, março de 2023](2023-03)
+
 ## 2020
 
 [Boletim, março de 2020](2020-03)

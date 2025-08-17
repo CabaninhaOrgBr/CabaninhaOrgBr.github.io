@@ -1,0 +1,34 @@
+# A voz espírita
+### Ano 7, n 3 março de 2025. Itu/SP
+
+## Muitos foram chamados, poucos os escolhidos.
+
+Foi em Mateus, 22:14 que Jesus após a parabola das bodas, conclui "Muitos são chamados, poucos os escolhidos". Como entender o que é ser "chamado", o que é ser "escolhido"? Digamos que um empresário ofereça vagas para a sua empresa. Naturalmente concorrerão muitos para ocupar esta vaga então, após uma triagem rigorosa, o empresário escolhe aqueles que irão trabalhar em sua empresa. Deus convoca a todos para as mais diversas missões em sua grande obra e sempre de acordo com a capacidade e habilidade de cada um. Quanto mais importante a missão, maiores serão as qualificações exigidas, mas,  a todos os Criador dá a oportunidade em sua obra, baseado em suas qualificações. Ser escolhido não é fazer parte de um grupo com privilégios, é ter o privilégio de poder participar de um trabalho de muito sacrifício e dedicação, como aconteceu com todos os grandes missionários da humanidade. Ser escolhido é ter a oportunidade de garantir, com o próprio esforço, um espaço, uma responsabilidade na obra de Deus. Todos estamos sendo chamados em cada convite da caridade, da fraternidade, da defesa da moral e dos princípios cristãos. Para sermos escolhidos é preciso que demonstremos de forma inequívoca que podemos atender as demandas exigidas para as vagas oferecidas. 
+
+## Espiritismo nas rádios.
+
+A divulgação do espiritismo através das rádios começou em uma quarta-feira, 19 de agosto de 1937, as 21:00, com o locutor, professor e jornalista Silveira da Rosa, na irradiação inicial do programa "Hora espiritualizada", na rádio sociedade fluminense (PRE-6). De lá para cá centenas de programas e estações de rádios se dedicam a esta divulgação. É uma atividade muito importante, acrescida, hoje, das facilidades oferecidas pela internet. Acompanhe prestigie este movimento pela internet. Acompanhe prestigie esta novidade ouvindo algumas delas.
+Em São Paulo, por exemplo, temos a rádio boa nova, a Rádio Síntese Web, a Web Rádio Fraternidade e muitas outras.
+
+## Sobre a história do esperitismo: Personagens famosos.## Abraham Lincoln.
+
+Sabe-se hoje, positivamente, que o grande presidente Abraham Lincoln recorreu com certa frequência aos conselhos de seus amigos espirituais, especialmente pela mediunidade de Nettie Colburn Maynard, que narra ela própria, como as coisas aconteceram. A desgastante guerra da Sesseção arrastava-se penosamente, com pesadas perdas de vida, e as tropas do governo já se mostravam pouco dispostas a continuar a luta. Tudo indicava que o país acabaria mesmo dividido. Os espíritos fizeram um diagnóstico objetivo e nada otimista, pois a situação era de fato muito precária, quando o General Hooker assumiu o comando das operações - O exército está completamente desmoralizado - disse o espírito incorporado em Nettie - os regimentos estão ensarilhando as armas, recusando-se a obedecer as ordens ou cumprir o dever. Ameaçaram uma retirada geral, com declarado propósito de voltarem para Wahshington.
+Lincoln, que ouvia atentamente concordou com o diagnóstico e comentou: - Você parece bem informado da situação. Poderia informar o remédio? - Sim - disse o espírito firme - Se você tiver a coragem de usá-lo. Lincoln sorriu e comentou com simplicidades: - Espirente-me o espírito indicou a única solução ainda possível a seu ver o presidente deveria ir imediatamente ao front visitar os soldados, não como figura distantes com todos os aparatos do cargo cercado de ministros e generais apenas para passar revista as tropas, mas com o mínimo possível de gente, levanda a sua família. Deveria caminhar entre os soldados, conversar com eles, saber de suas queixas e dificuldades.
+- Mostre-se tal qual é às dificuldades que eles enfrentam na marcha através dos pantanais, onde, tanto em coragem como em número, eles tem sido desfalcados. A providência era tão urgente no entender do espírito que Lincoln deveria mandar anunciar imediatamente suas decisão de ir, enquanto preparava a viagem, que demoraria alguns dias. Ao cabo de uma longa exposição, o presidente disse em uma só frase - Isso será feito.
+Lincoln fez a viagem sugerida pelo seu amigo espiritual e a sorte da guerra mudou prontamente porque, agora sim, os soldados que lutavam pelas suas idéias estavam motivos. Com muitos deles o presidente falara pessoalmente. Deixara de ser o vago e desconhecido fugurão político que, de Washington, mandara ordens. Assim, graças a uma sessão mediúnica, os Estados Unidos continuriam unidos. Então sem Nettie Colgurn Maynard provavelmente teríamos hoje dois países ali, em lugar de um só. E mais: foi também em atenção de uma mensagem mediúnica de seus amigos espirituais que o presidente resolveu promulgar a famosa proclamação da emancipação que acabava com a escravatura no país.
+.
+Fonte: E as sessões mediúnicas de Lincoln na Casa Branca? Por Hermínio C. Miranda, em Correio Fraterno.
+
+
+##  Olá meus amiguinhos, tudo bem?
+Vocês acreditam em espíritos?
+
+A gente ouve falar todo o tempo em espíritos. No centro espírita, em filmes, nas histórias de muitos autores, no texto de todas as religiões. Mas, o que são esses tais de espíritos.
+Bem, vamos começar dizendo que você meu amiguinho, e minha amiguinha é um espírito. A difirença entre uma pessoa morta e uma pessoa viva é que no morto o espírito não está mais e, no vivo, o espírito está lá, não só dando vida ao corpo, mas vivendo uma experiência de vida. Os corpos não vivem semo espírito, mas o espírito vive sem o corpo. Quando uma pessoa morre, o que acontece é que o espírito dela deixa o corpo, ou por doença, ou por acidente, ou por qualquer motivo que torna o corpo sem condições de continuar a viver. É como se você tentasse fazer funcionar um brinquedo eletrônico que está quebrado. Você tenta fazê-lo funcionar mas ele não funciona porque está quebrado. Quando o corpo está "quebrado", o espírito também não consegue fazê-lo funcionar, e, então, agente diz que o corpo está morto. Após a morte, o espírito vai para viver no mundo espiritual onde todos os espíritos vivem e eles continuam a ter o mesmo comportamento, e a gostar da mesma forma da gente, o querer estar conosco, a ter saudade de quando estávamos no corpo vivo.
+Então criançada, entenderam?
+Espírito é isso!
+As pessoas que morrem, como um parente ou amigo, continuaram por aí, agora como espíritos sem este corpo, mas continuam inteirinhos, viu, não falta nada neles, porque o espírito mantêm a forma quando "vivo". Devemos orar pelos espíritos que nós conhecemos quando estavam ao nosso lado neste mundo. Isto faz muito bem para eles.
+Ah, o teu anjo da guarda é um espírito. É ele quem te protege e te ajuda sempre que você precisa. Quando você vai na escolinha espírita, lá tem muitos espíritos de crianças também, brincando em aprendendo como você.
+
+
+
