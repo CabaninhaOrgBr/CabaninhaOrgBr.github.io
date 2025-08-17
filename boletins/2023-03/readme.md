@@ -12,11 +12,33 @@ Em São Paulo, por exemplo, temos a rádio boa nova, a Rádio Síntese Web, a We
 
 ## Sobre a história do esperitismo: Personagens famosos. Abraham Lincoln.
 
-Sabe-se hoje, positivamente, que o grande presidente Abraham Lincoln recorreu com certa frequência aos conselhos de seus amigos espirituais, especialmente pela mediunidade de Nettie Colburn Maynard, que narra ela própria, como as coisas aconteceram. A desgastante guerra da Sesseção arrastava-se penosamente, com pesadas perdas de vida, e as tropas do governo já se mostravam pouco dispostas a continuar a luta. Tudo indicava que o país acabaria mesmo dividido. Os espíritos fizeram um diagnóstico objetivo e nada otimista, pois a situação era de fato muito precária, quando o General Hooker assumiu o comando das operações - O exército está completamente desmoralizado - disse o espírito incorporado em Nettie - os regimentos estão ensarilhando as armas, recusando-se a obedecer as ordens ou cumprir o dever. Ameaçaram uma retirada geral, com declarado propósito de voltarem para Wahshington.
-Lincoln, que ouvia atentamente concordou com o diagnóstico e comentou: - Você parece bem informado da situação. Poderia informar o remédio? - Sim - disse o espírito firme - Se você tiver a coragem de usá-lo. Lincoln sorriu e comentou com simplicidades: - Espirente-me o espírito indicou a única solução ainda possível a seu ver o presidente deveria ir imediatamente ao front visitar os soldados, não como figura distantes com todos os aparatos do cargo cercado de ministros e generais apenas para passar revista as tropas, mas com o mínimo possível de gente, levanda a sua família. Deveria caminhar entre os soldados, conversar com eles, saber de suas queixas e dificuldades.
-- Mostre-se tal qual é às dificuldades que eles enfrentam na marcha através dos pantanais, onde, tanto em coragem como em número, eles tem sido desfalcados. A providência era tão urgente no entender do espírito que Lincoln deveria mandar anunciar imediatamente suas decisão de ir, enquanto preparava a viagem, que demoraria alguns dias. Ao cabo de uma longa exposição, o presidente disse em uma só frase - Isso será feito.
+Sabe-se hoje, positivamente, que o grande presidente Abraham Lincoln recorreu com certa frequência aos conselhos de seus amigos espirituais, especialmente pela mediunidade de Nettie Colburn Maynard, que narra ela própria, como as coisas aconteceram. A desgastante guerra da Sesseção arrastava-se penosamente, com pesadas perdas de vida, e as tropas do governo já se mostravam pouco dispostas a continuar a luta. Tudo indicava que o país acabaria mesmo dividido. Os espíritos fizeram um diagnóstico objetivo e nada otimista, pois a situação era de fato muito precária, quando o General Hooker assumiu o comando das operações 
+
+\- O exército está completamente desmoralizado - disse o espírito incorporado em Nettie
+
+\- Os regimentos estão ensarilhando as armas, recusando-se a obedecer as ordens ou cumprir o dever. Ameaçaram uma retirada geral, com declarado propósito de voltarem para Wahshington.
+
+Lincoln, que ouvia atentamente concordou com o diagnóstico e comentou:
+
+\- Você parece bem informado da situação. Poderia informar o remédio?
+
+\- Sim - disse o espírito firme
+
+\- Se você tiver a coragem de usá-lo. 
+
+Lincoln sorriu e comentou com simplicidades: 
+
+\- Espirente-me.
+
+O espírito indicou a única solução ainda possível a seu ver o presidente deveria ir imediatamente ao front visitar os soldados, não como figura distantes com todos os aparatos do cargo cercado de ministros e generais apenas para passar revista as tropas, mas com o mínimo possível de gente, levanda a sua família. Deveria caminhar entre os soldados, conversar com eles, saber de suas queixas e dificuldades.
+
+\- Mostre-se tal qual é às dificuldades que eles enfrentam na marcha através dos pantanais, onde, tanto em coragem como em número, eles tem sido desfalcados. 
+
+A providência era tão urgente no entender do espírito que Lincoln deveria mandar anunciar imediatamente suas decisão de ir, enquanto preparava a viagem, que demoraria alguns dias. Ao cabo de uma longa exposição, o presidente disse em uma só frase 
+
+\- Isso será feito.
 Lincoln fez a viagem sugerida pelo seu amigo espiritual e a sorte da guerra mudou prontamente porque, agora sim, os soldados que lutavam pelas suas idéias estavam motivos. Com muitos deles o presidente falara pessoalmente. Deixara de ser o vago e desconhecido fugurão político que, de Washington, mandara ordens. Assim, graças a uma sessão mediúnica, os Estados Unidos continuriam unidos. Então sem Nettie Colgurn Maynard provavelmente teríamos hoje dois países ali, em lugar de um só. E mais: foi também em atenção de uma mensagem mediúnica de seus amigos espirituais que o presidente resolveu promulgar a famosa proclamação da emancipação que acabava com a escravatura no país.
-.
+
 Fonte: E as sessões mediúnicas de Lincoln na Casa Branca? Por Hermínio C. Miranda, em Correio Fraterno.
 
 
