@@ -10,7 +10,7 @@ Foi em Mateus, 22:14 que Jesus após a parabola das bodas, conclui "Muitos são 
 A divulgação do espiritismo através das rádios começou em uma quarta-feira, 19 de agosto de 1937, as 21:00, com o locutor, professor e jornalista Silveira da Rosa, na irradiação inicial do programa "Hora espiritualizada", na rádio sociedade fluminense (PRE-6). De lá para cá centenas de programas e estações de rádios se dedicam a esta divulgação. É uma atividade muito importante, acrescida, hoje, das facilidades oferecidas pela internet. Acompanhe prestigie este movimento pela internet. Acompanhe prestigie esta novidade ouvindo algumas delas.
 Em São Paulo, por exemplo, temos a rádio boa nova, a Rádio Síntese Web, a Web Rádio Fraternidade e muitas outras.
 
-## Sobre a história do esperitismo: Personagens famosos.## Abraham Lincoln.
+## Sobre a história do esperitismo: Personagens famosos. Abraham Lincoln.
 
 Sabe-se hoje, positivamente, que o grande presidente Abraham Lincoln recorreu com certa frequência aos conselhos de seus amigos espirituais, especialmente pela mediunidade de Nettie Colburn Maynard, que narra ela própria, como as coisas aconteceram. A desgastante guerra da Sesseção arrastava-se penosamente, com pesadas perdas de vida, e as tropas do governo já se mostravam pouco dispostas a continuar a luta. Tudo indicava que o país acabaria mesmo dividido. Os espíritos fizeram um diagnóstico objetivo e nada otimista, pois a situação era de fato muito precária, quando o General Hooker assumiu o comando das operações - O exército está completamente desmoralizado - disse o espírito incorporado em Nettie - os regimentos estão ensarilhando as armas, recusando-se a obedecer as ordens ou cumprir o dever. Ameaçaram uma retirada geral, com declarado propósito de voltarem para Wahshington.
 Lincoln, que ouvia atentamente concordou com o diagnóstico e comentou: - Você parece bem informado da situação. Poderia informar o remédio? - Sim - disse o espírito firme - Se você tiver a coragem de usá-lo. Lincoln sorriu e comentou com simplicidades: - Espirente-me o espírito indicou a única solução ainda possível a seu ver o presidente deveria ir imediatamente ao front visitar os soldados, não como figura distantes com todos os aparatos do cargo cercado de ministros e generais apenas para passar revista as tropas, mas com o mínimo possível de gente, levanda a sua família. Deveria caminhar entre os soldados, conversar com eles, saber de suas queixas e dificuldades.
@@ -30,5 +30,25 @@ Espírito é isso!
 As pessoas que morrem, como um parente ou amigo, continuaram por aí, agora como espíritos sem este corpo, mas continuam inteirinhos, viu, não falta nada neles, porque o espírito mantêm a forma quando "vivo". Devemos orar pelos espíritos que nós conhecemos quando estavam ao nosso lado neste mundo. Isto faz muito bem para eles.
 Ah, o teu anjo da guarda é um espírito. É ele quem te protege e te ajuda sempre que você precisa. Quando você vai na escolinha espírita, lá tem muitos espíritos de crianças também, brincando em aprendendo como você.
 
+## Uma luz no fim do túnel
 
+O contato do ser humano com atrocidades, as injustiças, os crimes, e as barbaridades faz crescer um sentimento de casos, de desolação, de desespero, de auto abandono. 
+
+Para onde olha, o homem enxerga os frutos da mediocridade e da maldade humana. 
+
+Experiências pessoais e coletivas parecem revelar um mundo entregue ao acaso, onde milhares de pessoas sucumbem pela maldade dos outros ou pelos cataclismas da natureza. Acidentes parecem condenar à morte pessoas inocentes, de qualquer idade, sem que nenhuma justificativa parece um apresentar um poder controlador. Olhando, então, para os céus, o ser humano busca enxergar o fim deste túnel obscuro e cruel.
+
+É preciso olhar o mundo pelas lentes da espiritualidade, é preciso se distanciar um pouco das medidas acanhadas de tempo e de espaço que espremem o homem encarnado em suas três dimensões.
+
+E, então, o que podemos ver? 
+
+Primeiro: Venceremos o ser humnano em sua longa caminhada evolutiva, pontilhando a sua trejetória de méritos e de deméritos, que acrescentam marcas de avanço e retrocesso, felicidade e dor. A inocência presumida se desfaz ante a ampulheta do tempo. Os que hoje, abrigados em novas condições de vida, revelam uma passividade quase angelical, trazendo na sua sombra espectro real de sua personalidade, que evoluiu, e é verdade, mas ainda não os redimiu as faltas cometidas. Imerso em um ambiente do qual ainda não tem méritos para deixar, assusta-se com a prática alheia que praticou no passado. Não consegue, pela memória propositalmente limitada, compreender que o mundo em que vive é o mesmo mundo em que errou e no qual ainda está a livrar-se do peso de sua expiação e para ajudar o Criador a recompor os desequilíbrios provocados por ele mesmo. Mas, então, onde está a luz no fim do túnel? Onde recupera a esperança que se poderia viver em um mundo melhor? No mesmo vislumbre ampliado de tempo e de espaço.  O que se evoluiu no passado vai se evoluir no futuro. Estamos em fase de depuração, em um tratamento doloroso da grava doença da maldade, que crescreu e se alastrou pela própria permissividade do ser humano.
+
+Existe uma luz no fim do túnel, mas é preciso ir até ela, marchando com fé naquele que aplica a sua justiça, mas abençoa com a sua misericórdia. A luz não só nos espera, mas nos convida a avançar e engender que o mundo em que vivemos vai mudar, mas apenas quando nós mesmos mudarmos.
+
+
+#### <ins>A Voz Espírita.</ins>
+Órgão de divulgação do Espiritismo.
+<ins>Responsável:</ins> José C. Rodrigues.
+<ins>E-mail:</ins> avoespirita@gmail.com
 
