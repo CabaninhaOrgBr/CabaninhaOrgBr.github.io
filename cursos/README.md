@@ -3,4 +3,4 @@
 * ESDE I
 * ESDE II
 * Refora Íntima
-* [A Gênese](agenese.md)
+* [A Gênese](/cursos/2026/agenese.md)
