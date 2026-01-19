@@ -7,7 +7,7 @@
 Agenda da semana
 * Preleções [Acesso a lista de preleções](prelecoes)
 * Eventos
-* Cursos
+* [Cursos](cursos)
 * Reuniões
 
 ![picture alt](fachada.jpg "Fachada")
