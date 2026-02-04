@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cabaninha - Pure CSS Version</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/pure-min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@3.0.0/build/grids-responsive-min.css">
+    
+    <style>
+        body { color: #333; font-family: sans-serif; line-height: 1.6; }
+        .header { background: #f8f9fa; padding: 2em; text-align: center; border-bottom: 1px solid #ddd; }
+        .content-wrapper { padding: 2em; max-width: 1100px; margin: auto; }
+        
+        /* Estilizando os boxes manualmente (Pure é minimalista) */
+        .feature-box {
+            padding: 1.5em;
+            margin: 0.5em;
+            background: #fff;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            height: 100%;
+        }
+        .cta-section {
+            background: #0078e7;
+            color: white;
+            padding: 3em 1em;
+            text-align: center;
+        }
+        .pure-button-primary { background: #0078e7; }
+        footer { background: #333; color: #ccc; padding: 2em; text-align: center; font-size: 0.9em; }
+        h2 { color: #0078e7; }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>CABANINHA</h1>
+        <p>Centro Espírita - Educação e Assistência</p>
+        <div class="pure-menu pure-menu-horizontal">
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Início</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Cursos</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Palestras</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contato</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <div class="content-wrapper">
+        <div class="pure-g">
+            
+            <div class="pure-u-1 pure-u-md-1-3">
+                <div class="feature-box">
+                    <h2>Assistência</h2>
+                    <p><strong>Enxoval Valéria Amantéa</strong> e <strong>Grupo Cáritas</strong> atendendo gestantes e famílias com cestas básicas.</p>
+                    <a href="#" class="pure-button">Saiba mais</a>
+                </div>
+            </div>
+
+            <div class="pure-u-1 pure-u-md-1-3">
+                <div class="feature-box">
+                    <h2>Atividades</h2>
+                    <p>Cursos de Mediunidade, Reforma Íntima e Estudo Sistematizado da Doutrina Espírita.</p>
+                    <p><em>Terças às 19:15 - Estudo "Nosso Lar"</em></p>
+                </div>
+            </div>
+
+            <div class="pure-u-1 pure-u-md-1-3">
+                <div class="feature-box">
+                    <h2>Voluntariado</h2>
+                    <p>Colabore na Recepção, Livraria ou Biblioteca. Procure a Secretaria para se inscrever.</p>
+                    <a href="#" class="pure-button">Como Ajudar</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <section class="cta-section">
+        <h2>Seja um Sócio da Cabaninha</h2>
+        <p>Sua contribuição mensal de R$ 10,00 ajuda a manter nossas obras sociais.</p>
+        <button class="pure-button pure-button-primary">Quero me Associar</button>
+    </section>
+
+    <footer>
+        <p>Cabaninha © 2026 | Itu/SP</p>
+        <p>WhatsApp: (11) 97276-8714</p>
+    </footer>
+
+</body>
+</html>

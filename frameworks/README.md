@@ -1,0 +1,1 @@
+Conversa com o Gemini https://gemini.google.com/app/986e20457af235b2
